@@ -2,3 +2,104 @@
 theme name:  mon theme
 
 */
+
+body{
+    background-color: #6b14c9 ;
+}
+
+ .photo-sized{
+    width:70%;
+    height:85%;
+    border-radius: 30px !important;
+ }
+
+ .bcg_header{
+    background-color:  rgb(80, 8, 173);
+    font-family: cursive; 
+    border-radius: 30px !important;
+
+ }
+ 
+ .bcg_main_row2{
+ background-color: #D9D9D9;
+ font-family: cursive;
+ font-style: italic;
+ font-size: larger;
+ border-radius: 40px ! important;
+ padding: 20px;
+ margin-bottom: 20px;
+ }
+
+ .fs-4 {
+   font-size: 25px;
+   font-weight: bold; 
+ }
+ 
+.text-parcours-proffesionnel{
+   font-weight: bold;
+   font-size: 18px;
+   padding: 15px
+}
+
+ .bcg_main_row3{
+    padding-top: 30px;
+    background-color: rgb(148, 96, 216);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-radius: 40px ! important;
+ }
+
+ #bcg_main_row3{
+   margin: 25px;
+   padding-top: 30px;
+   background-color: rgb(80, 8, 173);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   border-radius: 40px ! important;
+}
+
+.text-primary{
+    color: rgb(80, 8, 173) !important
+}
+footer{
+   background-color: #280E43 ;
+   font-family: cursive;
+   font-size: larger;
+   color: white;
+   text-align: center;
+}
+.contact{
+   
+   text-align:center;
+   font-size: larger;
+   padding: 5px;
+   margin-top: 10px;
+
+
+}
+
+.social__icons ul li{
+   display: inline-flex;
+}
+
+.social__icons, ul, a{
+   margin-top: auto;
+   padding: 5px;
+   
+
+
+}
+
+.btn a {
+   text-decoration: none;
+}
+
+footer {
+   margin-top: 25px;
+}
+
+
+
+@media (min-width:768px){
+
+}
